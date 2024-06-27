@@ -1,0 +1,96 @@
+
+Program started at: 2024-06-20 20:52:55
+Switched to window 'Unknown' from application 'Code'
+Window 'Unknown' from application 'Code' was active for 6.03 seconds.
+Switched to window 'Unknown' from application 'Safari'
+Window 'Unknown' from application 'Safari' was active for 5.03 seconds.
+Switched to window 'Unknown' from application 'Finder'
+Window 'Unknown' from application 'Finder' was active for 3.02 seconds.
+Switched to window 'Unknown' from application 'CapCut'
+Window 'Unknown' from application 'CapCut' was active for 3.02 seconds.
+Switched to window 'Unknown' from application 'Safari'
+Window 'Unknown' from application 'Safari' was active for 3.02 seconds.
+Switched to window 'Unknown' from application 'Code'
+Window 'Unknown' from application 'Code' was active for 2.05 seconds.
+Program ended at: 2024-06-20 20:53:17
+Stopped.
+
+Program started at: 2024-06-20 20:54:31
+Switched to window 'Unknown' from application 'Code'
+Window 'Unknown' from application 'Code' was active for 3.02 seconds.
+Switched to window 'Unknown' from application 'Finder'
+Window 'Unknown' from application 'Finder' was active for 6.03 seconds.
+Switched to window 'Unknown' from application 'Preview'
+Window 'Unknown' from application 'Preview' was active for 2.01 seconds.
+Switched to window 'Unknown' from application 'Finder'
+Window 'Unknown' from application 'Finder' was active for 1.01 seconds.
+Switched to window 'Unknown' from application 'Preview'
+Window 'Unknown' from application 'Preview' was active for 1.01 seconds.
+Switched to window 'Unknown' from application 'Finder'
+Window 'Unknown' from application 'Finder' was active for 1.01 seconds.
+Switched to window 'Unknown' from application 'Preview'
+Window 'Unknown' from application 'Preview' was active for 2.01 seconds.
+Switched to window 'Unknown' from application 'Code'
+Window 'Unknown' from application 'Code' was active for 1.54 seconds.
+Program ended at: 2024-06-20 20:54:49
+Stopped.
+
+Program started at: 2024-06-20 20:57:55
+Switched to window ID '12774', 'Unknown' from application 'Code'
+Window ID '12774', 'Unknown' from application 'Code' was active for 4.03 seconds.
+Switched to window ID '11150', 'Unknown' from application 'Safari'
+Window ID '11150', 'Unknown' from application 'Safari' was active for 3.02 seconds.
+Switched to window ID '244', 'Unknown' from application 'Finder'
+Window ID '244', 'Unknown' from application 'Finder' was active for 2.01 seconds.
+Switched to window ID '12924', 'Unknown' from application 'Preview'
+Window ID '12924', 'Unknown' from application 'Preview' was active for 2.01 seconds.
+Switched to window ID '244', 'Unknown' from application 'Finder'
+Window ID '244', 'Unknown' from application 'Finder' was active for 2.01 seconds.
+Switched to window ID '12928', 'Unknown' from application 'Preview'
+Window ID '12928', 'Unknown' from application 'Preview' was active for 2.01 seconds.
+Switched to window ID '244', 'Unknown' from application 'Finder'
+Window ID '244', 'Unknown' from application 'Finder' was active for 2.02 seconds.
+Switched to window ID '12931', 'Unknown' from application 'Preview'
+Window ID '12931', 'Unknown' from application 'Preview' was active for 2.01 seconds.
+Switched to window ID '244', 'Unknown' from application 'Finder'
+Window ID '244', 'Unknown' from application 'Finder' was active for 1.01 seconds.
+Switched to window ID '12934', 'Unknown' from application 'Preview'
+Window ID '12934', 'Unknown' from application 'Preview' was active for 1.00 seconds.
+Switched to window ID '244', 'Unknown' from application 'Finder'
+Window ID '244', 'Unknown' from application 'Finder' was active for 1.01 seconds.
+Switched to window ID '12937', 'Unknown' from application 'Preview'
+Window ID '12937', 'Unknown' from application 'Preview' was active for 4.02 seconds.
+Switched to window ID '12934', 'Unknown' from application 'Preview'
+Window ID '12934', 'Unknown' from application 'Preview' was active for 3.02 seconds.
+Switched to window ID '12931', 'Unknown' from application 'Preview'
+Window ID '12931', 'Unknown' from application 'Preview' was active for 3.02 seconds.
+Switched to window ID '12928', 'Unknown' from application 'Preview'
+Window ID '12928', 'Unknown' from application 'Preview' was active for 2.02 seconds.
+Switched to window ID '12945', 'Unknown' from application 'Preview'
+Window ID '12945', 'Unknown' from application 'Preview' was active for 1.00 seconds.
+Switched to window ID '244', 'Unknown' from application 'Finder'
+Window ID '244', 'Unknown' from application 'Finder' was active for 3.02 seconds.
+Switched to window ID '12774', 'Unknown' from application 'Code'
+Window ID '12774', 'Unknown' from application 'Code' was active for 1.69 seconds.
+Program ended at: 2024-06-20 20:58:35
+Stopped.
+
+Program started at: 2024-06-21 19:29:47
+Switched to window ID '12774', 'Unknown' from application 'Code'
+Window ID '12774', 'Unknown' from application 'Code' was active for 4.02 seconds.
+Switched to window ID '15279', 'Unknown' from application 'Google Earth Pro'
+Window ID '15279', 'Unknown' from application 'Google Earth Pro' was active for 21.12 seconds.
+Switched to window ID '12774', 'Unknown' from application 'Code'
+Window ID '12774', 'Unknown' from application 'Code' was active for 0.43 seconds.
+Program ended at: 2024-06-21 19:30:12
+Stopped.
+
+Program started at: 2024-06-21 19:31:47
+Switched to window ID '12774', 'Unknown' from application 'Code'
+Window ID '12774', 'Unknown' from application 'Code' was active for 22.13 seconds.
+Switched to window ID '15279', 'Unknown' from application 'Google Earth Pro'
+Window ID '15279', 'Unknown' from application 'Google Earth Pro' was active for 17.11 seconds.
+Switched to window ID '12774', 'Unknown' from application 'Code'
+Window ID '12774', 'Unknown' from application 'Code' was active for 2.83 seconds.
+Program ended at: 2024-06-21 19:32:29
+Stopped.

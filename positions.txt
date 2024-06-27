@@ -1,0 +1,22 @@
+save_image = (570,90)
+final_save_btn = (882,360)
+there wil be a download counter, jeta dekhe rename korbo auto..
+
+
+single download:
+[save -> "Water_body_{download_counter}-> save button e chap debo]
+
+20 bar right move korle 30000 ft e fully cover hoye jay porer image e jay daan diker
+15 bar niche move korle ---------> niche
+
+update:
+
+2.18 s for right left
+
+
+
+issues:
+>> download speed, buffer hote time lage
+>> perfectly grid banaite trial and error korte hobe
+>> loading speed also. previous years take longer time for bufer and download
+

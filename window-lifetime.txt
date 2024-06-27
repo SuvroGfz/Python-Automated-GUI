@@ -1,0 +1,138 @@
+
+Program started at: 2024-06-20 21:09:36
+Window ID '12774', 'Unknown' from application 'Code' became active at 2024-06-20 21:09:36.
+Window ID '11150', 'Unknown' from application 'Safari' became active at 2024-06-20 21:09:36.
+Window ID '244', 'Unknown' from application 'Finder' became active at 2024-06-20 21:09:36.
+Window ID '3384', 'Unknown' from application 'CapCut' became active at 2024-06-20 21:09:36.
+Window ID '13077', 'Unknown' from application 'Preview' became active at 2024-06-20 21:09:53.
+Window ID '13087', 'Unknown' from application 'QuickTime Player' became active at 2024-06-20 21:10:08.
+Window ID '13088', 'Unknown' from application 'QuickTime Player' became active at 2024-06-20 21:10:08.
+Window ID '13088' was closed at 2024-06-20 21:10:09 after being active for 1.01 seconds.
+Window ID '13087' was closed at 2024-06-20 21:10:17 after being active for 9.07 seconds.
+Window ID '13100', 'Unknown' from application 'TapRecord' became active at 2024-06-20 21:10:24.
+Window ID '13101', 'Unknown' from application 'TapRecord' became active at 2024-06-20 21:10:25.
+Window ID '13100' was closed at 2024-06-20 21:10:29 after being active for 5.03 seconds.
+Window ID '13101' was closed at 2024-06-20 21:10:34 after being active for 9.06 seconds.
+Window ID '13077' was closed at 2024-06-20 21:10:37 after being active for 44.30 seconds.
+Window ID '244' was closed at 2024-06-20 21:10:40 after being active for 64.44 seconds.
+Window ID '4926', 'Unknown' from application 'Finder' became active at 2024-06-20 21:10:40.
+Window ID '4926' was closed at 2024-06-20 21:10:41 after being active for 1.01 seconds.
+Window ID '244', 'Unknown' from application 'Finder' became active at 2024-06-20 21:10:41.
+Window ID '13105', 'Unknown' from application 'Dock' became active at 2024-06-20 21:10:46.
+Window ID '13105' was closed at 2024-06-20 21:10:47 after being active for 1.01 seconds.
+Program ended at: 2024-06-20 21:10:49
+Stopped.
+
+Program started at: 2024-06-20 21:17:50
+Window ID '12774', 'Unknown' from application 'Code' became active at 2024-06-20 21:17:50.
+Window ID '11150', 'Unknown' from application 'Safari' became active at 2024-06-20 21:17:50.
+Window ID '244', 'Unknown' from application 'Finder' became active at 2024-06-20 21:17:50.
+Window ID '3384', 'Unknown' from application 'CapCut' became active at 2024-06-20 21:17:50.
+Window ID '244' was closed at 2024-06-20 21:18:09 after being active for 19.17 seconds.
+Window ID '13157', 'Unknown' from application 'Finder' became active at 2024-06-20 21:18:09.
+Window ID '13157' was closed at 2024-06-20 21:18:10 after being active for 1.01 seconds.
+Window ID '13158', 'Unknown' from application 'Finder' became active at 2024-06-20 21:18:10.
+Window ID '13158' was closed at 2024-06-20 21:18:13 after being active for 3.02 seconds.
+Window ID '13157', 'Unknown' from application 'Finder' became active at 2024-06-20 21:18:13.
+Window ID '13157' was closed at 2024-06-20 21:18:15 after being active for 2.02 seconds.
+Window ID '244', 'Unknown' from application 'Finder' became active at 2024-06-20 21:18:15.
+Window ID '13159', 'Unknown' from application 'Preview' became active at 2024-06-20 21:18:16.
+Window ID '13167', 'Unknown' from application 'QuickTime Player' became active at 2024-06-20 21:18:42.
+Window ID '13180', 'Unknown' from application 'TapRecord' became active at 2024-06-20 21:18:58.
+Window ID '13180' was closed at 2024-06-20 21:19:03 after being active for 5.03 seconds.
+Window ID '13167' was closed at 2024-06-20 21:19:08 after being active for 26.20 seconds.
+Window ID '13159' was closed at 2024-06-20 21:19:13 after being active for 57.42 seconds.
+Program ended at: 2024-06-20 21:19:21
+Stopped.
+
+Program started at: 2024-06-20 21:26:47
+Window ID '12774', 'Unknown' from application 'Code' became active at 2024-06-20 21:26:47.
+Window ID '11150', 'Unknown' from application 'Safari' became active at 2024-06-20 21:26:47.
+Window ID '13224', 'Unknown' from application 'Numbers' became active at 2024-06-20 21:26:47.
+Window ID '244', 'Unknown' from application 'Finder' became active at 2024-06-20 21:26:47.
+Window ID '3384', 'Unknown' from application 'CapCut' became active at 2024-06-20 21:26:47.
+Window ID '13224' was not closed.
+Window ID '13304', 'Unknown' from application 'QuickTime Player' became active at 2024-06-20 21:27:03.
+Window ID '13305', 'Unknown' from application 'QuickTime Player' became active at 2024-06-20 21:27:03.
+Window ID '13305' was not closed.
+Window ID '13304' was not closed.
+Window ID '13308', 'Unknown' from application 'QuickTime Player' became active at 2024-06-20 21:27:09.
+Window ID '13309', 'Unknown' from application 'QuickTime Player' became active at 2024-06-20 21:27:09.
+Window ID '13308' was not closed.
+Window ID '13309' was not closed.
+Window ID '13311', 'Unknown' from application 'TapRecord' became active at 2024-06-20 21:27:16.
+Window ID '13311' was not closed.
+Program ended at: 2024-06-20 21:27:30
+Window ID '12774' was not closed.
+Window ID '11150' was not closed.
+Window ID '244' was not closed.
+Window ID '3384' was not closed.
+Stopped.
+
+Program started at: 2024-06-20 21:29:05
+Window ID '12774', 'Unknown' from application 'Code' became active at 2024-06-20 21:29:05.
+Window ID '11150', 'Unknown' from application 'Safari' became active at 2024-06-20 21:29:05.
+Window ID '3384', 'Unknown' from application 'CapCut' became active at 2024-06-20 21:29:05.
+Window ID '244', 'Unknown' from application 'Finder' became active at 2024-06-20 21:29:05.
+Window ID '13345', 'Unknown' from application 'Preview' became active at 2024-06-20 21:29:18.
+Window ID '13345' was not closed.
+Program ended at: 2024-06-20 21:29:23
+Window ID '12774' was not closed.
+Window ID '11150' was not closed.
+Window ID '3384' was not closed.
+Window ID '244' was not closed.
+Stopped.
+
+Program started at: 2024-06-20 21:32:24
+Window ID '12774', 'Unknown' from application 'Code' became active at 2024-06-20 21:32:25.
+Window ID '3384', 'Unknown' from application 'CapCut' became active at 2024-06-20 21:32:25.
+Window ID '244', 'Unknown' from application 'Finder' became active at 2024-06-20 21:32:25.
+Window ID '11150', 'Unknown' from application 'Safari' became active at 2024-06-20 21:32:25.
+Program ended at: 2024-06-20 21:32:32
+Window ID '12774' was not closed.
+Window ID '3384' was not closed.
+Window ID '244' was not closed.
+Window ID '11150' was not closed.
+Stopped.
+
+Program started at: 2024-06-21 19:24:36
+Window ID '12774', 'Unknown' from application 'Code' became active at 2024-06-21 19:24:36.
+Window ID '15256', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-21 19:24:36.
+Window ID '15239', 'Unknown' from application 'Finder' became active at 2024-06-21 19:24:36.
+Window ID '14993', 'Unknown' from application 'Safari' became active at 2024-06-21 19:24:36.
+Window ID '15279', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-21 19:25:01.
+Program ended at: 2024-06-21 19:26:51
+Window ID '12774' was not closed.
+Window ID '15256' was not closed.
+Window ID '15239' was not closed.
+Window ID '14993' was not closed.
+Window ID '15279' was not closed.
+Stopped.
+
+Program started at: 2024-06-21 19:27:39
+Window ID '12774', 'Unknown' from application 'Code' became active at 2024-06-21 19:27:39.
+Window ID '15279', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-21 19:27:39.
+Window ID '15256', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-21 19:27:39.
+Window ID '15239', 'Unknown' from application 'Finder' became active at 2024-06-21 19:27:39.
+Window ID '14993', 'Unknown' from application 'Safari' became active at 2024-06-21 19:27:39.
+Program ended at: 2024-06-21 19:28:08
+Window ID '12774' was not closed.
+Window ID '15279' was not closed.
+Window ID '15256' was not closed.
+Window ID '15239' was not closed.
+Window ID '14993' was not closed.
+Stopped.
+
+Program started at: 2024-06-21 19:32:05
+Window ID '12774', 'Unknown' from application 'Code' became active at 2024-06-21 19:32:05.
+Window ID '15279', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-21 19:32:05.
+Window ID '15256', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-21 19:32:05.
+Window ID '15239', 'Unknown' from application 'Finder' became active at 2024-06-21 19:32:05.
+Window ID '14993', 'Unknown' from application 'Safari' became active at 2024-06-21 19:32:05.
+Program ended at: 2024-06-21 19:32:27
+Window ID '12774' was not closed.
+Window ID '15279' was not closed.
+Window ID '15256' was not closed.
+Window ID '15239' was not closed.
+Window ID '14993' was not closed.
+Stopped.

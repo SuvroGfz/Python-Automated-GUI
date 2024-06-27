@@ -1,0 +1,40 @@
+
+Program started at: 2024-06-24 12:18:31
+Window ID '16419', 'Unknown' from application 'Code' became active at 2024-06-24 12:18:31.
+Window ID '15677', 'Unknown' from application 'Safari' became active at 2024-06-24 12:18:31.
+Window ID '15681', 'Unknown' from application 'Safari' became active at 2024-06-24 12:18:52.
+Window ID '15681' was closed at 2024-06-24 12:18:57 after being active for 5.03 seconds.
+Window ID '16487', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-24 12:19:16.
+Window ID '16494', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-24 12:19:17.
+Window ID '16487' was closed at 2024-06-24 12:19:18 after being active for 2.01 seconds.
+Window ID '16513', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-24 12:19:52.
+Program ended at: 2024-06-24 12:20:04
+Window ID '16419' was not closed.
+Window ID '15677' was not closed.
+Window ID '16494' was not closed.
+Window ID '16513' was not closed.
+Stopped.
+
+Program started at: 2024-06-24 12:21:03
+Window ID '16419', 'Unknown' from application 'Code' became active at 2024-06-24 12:21:03.
+Window ID '16513', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-24 12:21:03.
+Window ID '16494', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-24 12:21:03.
+Window ID '15677', 'Unknown' from application 'Safari' became active at 2024-06-24 12:21:03.
+Program ended at: 2024-06-24 12:21:20
+Window ID '16419' was not closed.
+Window ID '16513' was not closed.
+Window ID '16494' was not closed.
+Window ID '15677' was not closed.
+Stopped.
+
+Program started at: 2024-06-24 12:25:19
+Window ID '16419', 'Unknown' from application 'Code' became active at 2024-06-24 12:25:19.
+Window ID '15677', 'Unknown' from application 'Safari' became active at 2024-06-24 12:25:19.
+Window ID '16513', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-24 12:25:19.
+Window ID '16494', 'Unknown' from application 'Google Earth Pro' became active at 2024-06-24 12:25:19.
+Program ended at: 2024-06-24 12:25:51
+Window ID '16419' was not closed.
+Window ID '15677' was not closed.
+Window ID '16513' was not closed.
+Window ID '16494' was not closed.
+Stopped.
